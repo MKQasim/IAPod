@@ -1,0 +1,16 @@
+PODS:
+  - IAModule (0.1.0)
+
+DEPENDENCIES:
+  - IAModule (from `../`)
+
+EXTERNAL SOURCES:
+  IAModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IAModule: a0d3ae501188f9da277e60a7eaf7e367dc25c78e
+
+PODFILE CHECKSUM: 0e3b4fa4a0d3c9e5f8a6e038e0b263899d018514
+
+COCOAPODS: 1.9.3

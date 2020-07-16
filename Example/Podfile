@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IAModule_Example' do
+  pod 'IAModule', :path => '../'
+
+  target 'IAModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

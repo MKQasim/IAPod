@@ -1,0 +1,22 @@
+{
+  "name": "IAModule",
+  "version": "0.1.0",
+  "summary": "This is usable short description of IAModule.",
+  "description": "IAModule description of componentsdescription of IAModule.",
+  "homepage": "https://github.com/MKQasim",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MKQasim": "m.qasim@ia.gov.ae"
+  },
+  "source": {
+    "git": "https://github.com/MKQasim/IAPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.3"
+  },
+  "source_files": "IAModule/Classes/**/*"
+}
